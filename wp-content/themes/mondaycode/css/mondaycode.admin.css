@@ -1,0 +1,13 @@
+.mondaycode-general-form,
+.mondaycode-sidebar-priview { display: inline-block; float: left; }
+
+.mondaycode-sidebar-priview { width: 280px; background-color: #1F1F1F; padding: 20px; text-align: center; margin-right: 20px; }
+.mondaycode-sidebar{ display: block; text-align: center; }
+
+h1.mondaycode-username,
+h2.mondaycode-description { font-weight: 100; color: #fff; }
+h1.mondaycode-username { font-size: 24px; margin: 0 0 10px; }
+h2.mondaycode-description { font-size: 13px; margin: 0 0 20px; }
+
+.image-container { display: block; width: 100%; overflow: hidden; text-align: center; }
+.profile-picture { width: 122px; height: 127px; overflow: hidden; border-radius: 50%; margin: 20px auto; background-position: center center; background-repeat: no-repeat; background-size: cover; }
